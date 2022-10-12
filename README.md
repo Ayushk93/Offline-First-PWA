@@ -8,4 +8,4 @@ npm start
 
 application will open in localhost:8000
 
-#You can stop the server to test application working offline
+## You can stop the server to test application working offline
