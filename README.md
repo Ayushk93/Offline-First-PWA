@@ -11,7 +11,7 @@ npm start
 ```
 
 ```
-application will open in localhost:8000
+application will run in localhost:8000
 ```
 
 ## You can stop the server to test application working offline
